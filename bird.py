@@ -7,4 +7,4 @@ class Bird(Animal):
         self.wingspan = wingspan
 
     def speak(self):
-        print("tweet tweet")
+        return "tweet tweet"
